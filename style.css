@@ -459,7 +459,7 @@ body {
 
 
   .repositories {
-    grid-template-columns: 1fr;
+    grid-template-columns: 4fr;
   }
 
 }
